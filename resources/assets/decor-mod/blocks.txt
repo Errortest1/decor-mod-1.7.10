@@ -1,0 +1,12 @@
+{
+name: "barrik";
+model_path: "models/decor/barrik.obj";
+texture_path: "models/decor/textures/barrik.png";
+collide: true;
+}
+{
+name: "bin";
+model_path: "models/decor/bin.obj";
+texture_path: "models/decor/textures/bin.png";
+collide: false;
+}
